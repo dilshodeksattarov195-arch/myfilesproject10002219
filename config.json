@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentsncrypt",
+        "uuid": 8631910,
+        "checksum": "fvcyh"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
